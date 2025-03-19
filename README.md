@@ -22,7 +22,7 @@ The AI-Powered Resume Screening System automates resume parsing and ranking usin
 ## 📂 Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/resume-screening.git
+git clone https://github.com/Shravinya/AI-Resume-Screener.git
 cd resume-screening
 
 # Install dependencies
