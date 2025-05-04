@@ -62,4 +62,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ## 📬 Contact
-For any queries, reach out at [shravinyagoud@example.com](mailto:your-email@example.com).
+For any queries, reach out at [shravinyagoud@gmail.com](mailto:your-email@example.com).
